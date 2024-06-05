@@ -70,6 +70,13 @@ Ensure you have the following installed on your system:
 
 3. Enjoy interacting with Jarvis!
 
+## Video Demonstration
+
+Click the link below to watch a video demonstration of the project:
+
+- [Watch Video](./assets/jarvis.mov)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
