@@ -74,7 +74,7 @@ Ensure you have the following installed on your system:
 
 Click the link below to watch a video demonstration of the project:
 
-- [Watch Video](./assets/jarvis.mov)
+- [Watch Video](https://youtu.be/X0AyCbuyQH8)
 
 
 ## Contributing
